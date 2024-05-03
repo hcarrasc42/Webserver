@@ -1,0 +1,18 @@
+server:
+	servername: sitex.com
+	listen: 127.0.0.1:61001
+	root: "./www/site3"
+	location:
+
+server:
+	servername: sitex.com
+	listen: 127.0.0.1:61002
+	root: "./www/site3"
+	location:
+
+
+	servername: sitex.com
+	listen: 127.0.0.1:61003
+	root: "./www/site3"
+	location:
+
